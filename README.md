@@ -9,6 +9,7 @@ operational efficiency in industrial environments. Traditional maintenance appro
 reactive or scheduled at fixed intervals, often fail to detect equipment problems before they 
 occur. To address this, this project proposes an AI-Based Predictive Maintenance System 
 integrated with Generative AI. 
+
 The system uses machine learning algorithms to analyze sensor parameters such as air 
 temperature, process temperature, rotational speed, torque, and tool wear to predict whether a 
 machine is likely to fail. When a failure is predicted, it further identifies the probable failure 
@@ -16,6 +17,9 @@ category based on patterns learned from the dataset. A Generative AI component t
 these results and produces clear explanations, troubleshooting suggestions, and preventive 
 maintenance recommendations that operators without a data science background can easily 
 understand. 
+
 By combining machine learning-based prediction with Generative AI-powered guidance in a user
 friendly interface, the system supports early failure detection, better maintenance planning, and 
 reduced unexpected downtime in industrial applications.
+
+Keywords: Predictive Maintenance, Machine Learning, Generative AI, Failure Prediction, Failure Classification, Industry 4.0
