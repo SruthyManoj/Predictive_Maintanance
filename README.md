@@ -22,4 +22,4 @@ By combining machine learning-based prediction with Generative AI-powered guidan
 friendly interface, the system supports early failure detection, better maintenance planning, and 
 reduced unexpected downtime in industrial applications.
 
-Keywords: Predictive Maintenance, Machine Learning, Generative AI, Failure Prediction, Failure Classification, Industry 4.0
+**Keywords:** Predictive Maintenance, Machine Learning, Generative AI, Failure Prediction, Failure Classification, Industry 4.0
