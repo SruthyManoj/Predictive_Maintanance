@@ -1,1 +1,1 @@
-# Predictive Maintanance of Machine
+# AI-Based Predictive Maintenance System with GenAI
